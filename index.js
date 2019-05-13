@@ -1,2 +1,4 @@
 // Write your code here
-const multiply = 31 * 2;
+let var1 = 31 
+let var2 = 2 
+const multiply = var1 * var2
